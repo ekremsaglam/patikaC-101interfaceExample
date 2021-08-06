@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\bin\Debug\net5.0\interfaceExamples.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\bin\Debug\net5.0\interfaceExamples.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\bin\Debug\net5.0\interfaceExamples.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\bin\Debug\net5.0\interfaceExamples.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\bin\Debug\net5.0\interfaceExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\bin\Debug\net5.0\ref\interfaceExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\bin\Debug\net5.0\interfaceExamples.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\ref\interfaceExamples.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\interfaceExamples\obj\Debug\net5.0\interfaceExamples.genruntimeconfig.cache
